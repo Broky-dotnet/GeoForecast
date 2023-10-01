@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\GeoForecast\bin\Release\GeoForecast.exe.config
+C:\Users\PC\source\repos\GeoForecast\bin\Release\GeoForecast.exe
+C:\Users\PC\source\repos\GeoForecast\bin\Release\GeoForecast.pdb
+C:\Users\PC\source\repos\GeoForecast\obj\Release\GeoForecast.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GeoForecast\obj\Release\GeoForecast.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\GeoForecast\obj\Release\GeoForecast.csproj.ResolveComReference.cache
+C:\Users\PC\source\repos\GeoForecast\obj\Release\GeoForecast.MainForm.resources
+C:\Users\PC\source\repos\GeoForecast\obj\Release\GeoForecast.Properties.Resources.resources
+C:\Users\PC\source\repos\GeoForecast\obj\Release\GeoForecast.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GeoForecast\obj\Release\GeoForecast.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GeoForecast\obj\Release\GeoForecast.exe
+C:\Users\PC\source\repos\GeoForecast\obj\Release\GeoForecast.pdb
+C:\Users\PC\source\repos\GeoForecast\obj\Release\GeoForecast.InstructionForm.resources
